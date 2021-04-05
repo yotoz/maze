@@ -1,7 +1,5 @@
 <template>
   <div id="app">
-    <img class="logo" src="./assets/images/home.svg">
-    <p class="title">길토배고</p>
     <router-view/>
   </div>
 </template>
