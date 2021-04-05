@@ -12,6 +12,10 @@ export default {
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Sunflower:wght@300;500&display=swap');
+html {
+  touch-action: pan-y;
+}
+
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
