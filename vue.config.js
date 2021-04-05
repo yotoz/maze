@@ -1,4 +1,4 @@
 module.exports = {
-    publicPath: '/maze',
+    publicPath: '',
     outputDir: 'docs'
 }
